@@ -9,7 +9,7 @@ I build software for fun — mostly to see how far an idea (or a language model)
 
 * [**ai-storywriter**](https://github.com/gdoct/ai-storywriter) — A visual, canvas-based story writer where you arrange characters, world, and plot beats as connected nodes, then have an AI agent turn the board into a streamed story.
 
-* [**iptv-webplayer**] (https://github.com/gdoct/iptv-webplayer) — A privacy-first, single-file IPTV player that streams MPEG-TS channels entirely client-side, no telemetry, no server dependency.
+* [**iptv-webplayer**](https://github.com/gdoct/iptv-webplayer) — A privacy-first, single-file IPTV player that streams MPEG-TS channels entirely client-side, no telemetry, no server dependency.
 
 ### What I'm into
-Systems programming, simulation, and seeing what AI-assisted development can actually build when pushed.
+Systems programming, simulation, and seeing what AI-assisted software engineering can actually build when pushed.
